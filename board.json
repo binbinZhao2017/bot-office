@@ -1,0 +1,184 @@
+{
+ "updated": "2026-10-29 15:01",
+ "tz": "斯德哥尔摩时间",
+ "rooms": [
+  "秘书处",
+  "头条组",
+  "内容组",
+  "科研组",
+  "产品组 / Wellbie",
+  "生活财务",
+  "会议室",
+  "茶水间"
+ ],
+ "bots": [
+  {
+   "id": "125d5e18-4b2f-4fc5-a68f-30f94d606d7a",
+   "name": "Grok Bot",
+   "room": "秘书处",
+   "status": "空闲",
+   "doing": "发了答辩计划提醒：10月底前跟 Petter、Caroline 确认答辩日期",
+   "last": "10-26 09:21"
+  },
+  {
+   "id": "07e81b15-aa6d-4b1b-9a22-0c4f30c6d9e6",
+   "name": "Channel Digest",
+   "room": "秘书处",
+   "status": "进行中",
+   "doing": "发了今早 Slack 摘要（KRAS / CMV 分析待交）",
+   "last": "10-29 07:53"
+  },
+  {
+   "id": "db5a71ba-30bc-44c4-9136-16a9f2ff48fd",
+   "name": "头条写稿",
+   "room": "头条组",
+   "status": "进行中",
+   "doing": "10/29 四篇稿已交审查，调整选题策略",
+   "last": "10-28（时间未记录）"
+  },
+  {
+   "id": "47a4b8ef-447a-4fb2-9f25-c247b0407b92",
+   "name": "头条视频",
+   "room": "头条组",
+   "status": "进行中",
+   "doing": "改成竖版 9:16，下一条「苍蝇为啥难拍」",
+   "last": "时间未记录"
+  },
+  {
+   "id": "e6f70e85-6d16-49ca-8151-ac5ffb9960ec",
+   "name": "头条审查发布",
+   "room": "头条组",
+   "status": "进行中",
+   "doing": "发布了蚊子视频，审核中",
+   "last": "10-29 约 10:54"
+  },
+  {
+   "id": "93d54121-ba94-45c6-a24d-ab1435100452",
+   "name": "头条手机",
+   "room": "头条组",
+   "status": "进行中",
+   "doing": "把今日话题转给 toutiao",
+   "last": "时间未记录"
+  },
+  {
+   "id": "2cead2fa-6e6e-403c-b386-9a99e0529fe1",
+   "name": "toutiao",
+   "room": "头条组",
+   "status": "进行中",
+   "doing": "幸运签打卡，新题加进选题池",
+   "last": "时间未记录"
+  },
+  {
+   "id": "0582bf23-c14b-43f0-b33d-0c2a841239ab",
+   "name": "小红书",
+   "room": "内容组",
+   "status": "进行中",
+   "doing": "发了「宝宝发烧别捂汗」",
+   "last": "10-29 11:57"
+  },
+  {
+   "id": "71662718-f55b-4e61-9dd8-6b5d113f2167",
+   "name": "作图",
+   "room": "内容组",
+   "status": "进行中",
+   "doing": "在搭这个像素办公室网页",
+   "last": "10-29 15:01"
+  },
+  {
+   "id": "ca311ad5-ff10-4f60-b50e-9062ce73aecb",
+   "name": "时尚大片",
+   "room": "内容组",
+   "status": "空闲",
+   "doing": "交了两张 4:5 时尚大片图",
+   "last": "时间未记录"
+  },
+  {
+   "id": "f8a5fd84-791a-4526-ac0f-7587746804e0",
+   "name": "免疫",
+   "room": "科研组",
+   "status": "空闲",
+   "doing": "整理 AI×免疫 X 帖子精选",
+   "last": "约 10-22"
+  },
+  {
+   "id": "884136cf-b42b-47e2-a37b-8a3644de85ec",
+   "name": "sciimmunol",
+   "room": "科研组",
+   "status": "未知",
+   "doing": "还没有对话记录",
+   "last": "未知"
+  },
+  {
+   "id": "42d620b0-48a5-4620-99ec-3bf8b6dfc4bc",
+   "name": "网站",
+   "room": "科研组",
+   "status": "空闲",
+   "doing": "排查 immuneorthologs.com HTTPS 提示",
+   "last": "时间未记录"
+  },
+  {
+   "id": "4fedd83f-a682-49af-844f-9c2438b3d38d",
+   "name": "图谱",
+   "room": "科研组",
+   "status": "空闲",
+   "doing": "保存了免疫转化图谱 HTML",
+   "last": "时间未记录"
+  },
+  {
+   "id": "676ff0f5-ab22-455d-81f0-e3f148062243",
+   "name": "读论文",
+   "room": "科研组",
+   "status": "空闲",
+   "doing": "逐句讲解论文，等下一段",
+   "last": "时间未记录"
+  },
+  {
+   "id": "7fdb7a4d-2c54-468f-b741-da7faf566872",
+   "name": "Journal Club",
+   "room": "科研组",
+   "status": "空闲",
+   "doing": "交了 Journal Club 清单",
+   "last": "时间未记录"
+  },
+  {
+   "id": "99f6ab3a-0da9-457c-acf6-54e368c2d61a",
+   "name": "bianca",
+   "room": "科研组",
+   "status": "空闲",
+   "doing": "查明 KI-VPN 装不到 box",
+   "last": "10-22 14:55"
+  },
+  {
+   "id": "56548185-c805-44de-9017-a3b4bfe5a988",
+   "name": "Wellbie",
+   "room": "产品组 / Wellbie",
+   "status": "空闲",
+   "doing": "小程序上线检查，PR #1 已修",
+   "last": "时间未记录"
+  },
+  {
+   "id": "419cf8dc-019f-4bf9-b34a-db9129f591e2",
+   "name": "财务",
+   "room": "生活财务",
+   "status": "未知",
+   "doing": "本身没有对话记录",
+   "last": "未知"
+  },
+  {
+   "id": "d6563644-d6b2-4761-bc77-9e9b64eb4eac",
+   "name": "股价提醒",
+   "room": "生活财务",
+   "status": "进行中",
+   "doing": "SPCX 跌破 150 提醒",
+   "last": "某日 14:47"
+  },
+  {
+   "id": "849a2aa5-3f56-462a-9cbd-7605e6cf9002",
+   "name": "选礼物",
+   "room": "生活财务",
+   "status": "已过期",
+   "doing": "推荐 Målerås / Orrefors 礼物",
+   "last": "10-13 23:28"
+  }
+ ]
+}
